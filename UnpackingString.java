@@ -1,7 +1,5 @@
-
 import java.util.Stack;
 import java.util.Scanner;
-
 
 public class UnpackingString {
 
@@ -75,8 +73,5 @@ public class UnpackingString {
         } else {
             System.out.println("Invalid input");
         }
-        
-        
-
     }
 }
